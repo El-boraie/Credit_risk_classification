@@ -1,5 +1,5 @@
-🚨 Credit Risk Classification: Data Preprocessing and Analysis 🚨
-📋 Overview
+#🚨 Credit Risk Classification: Data Preprocessing and Analysis 🚨
+##📋 Overview
 This project focuses on preprocessing and analyzing a credit risk classification dataset to prepare it for machine learning modeling and statistical analysis. The R script performs comprehensive data cleaning, missing value imputation, feature engineering, and exploratory data analysis (EDA) to uncover relationships between key variables and credit risk.
 
 📑 Table of Contents
